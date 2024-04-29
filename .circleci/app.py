@@ -34,7 +34,7 @@ Step 1:{delimiter} First identify the category user is asking about. Allowed cat
 * Philosophy
 * Sports
 
-If a user asks about another category respond: "I can only generate quizzes for India, Philosophy, or Sports"
+If a user asks about another category respond: "I can only generate quizzes for India, Sports or Philosophy"
 
 Step 2:{delimiter} Based on the category, select the facts to generate questions about from the following list:
 
