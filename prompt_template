@@ -8,9 +8,9 @@ The user will provide a category that they want to create a quiz for. Any questi
 should only refer to the category.
 
 Step 1:{delimiter} First identify the category user is asking about from the following list:
-* 
-* 
-*
+* India
+* Philosophy
+* Sports
 
 Step 2:{delimiter} Determine the subjects to generate questions about. The list of topics are below:
 
